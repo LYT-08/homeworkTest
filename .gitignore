@@ -1,0 +1,25 @@
+# Visual Studio / 生成产物
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# 编译输出目录
+x64/
+x86/
+Debug/
+Release/
+ipch/
+
+# 中间文件
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+*.iobj
+*.ipdb
